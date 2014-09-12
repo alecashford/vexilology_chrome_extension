@@ -1,0 +1,20 @@
+html, body{
+  height: 100%;
+}
+
+h2 span {
+	opacity: 0.6;
+	position: fixed;
+	top: 95%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: black; 
+	font: bold 24px/45px Helvetica, Sans-Serif; 
+	letter-spacing: -1px;  
+	background: rgb(0, 0, 0);
+	background: white;
+	padding: 10px; 
+	z-index: 1;
+	position: fixed;
+	border-radius: 10px;
+}

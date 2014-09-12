@@ -1,0 +1,15 @@
+{
+  "name": "Learn Flags!",
+  "description": "Learn the flags of the world without even realizing it!",
+  "version": "1.0",
+  "chrome_url_overrides" : {
+    "newtab" : "vexilology.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+    "browser_action": {
+    "default_title": "Learn Flags!"
+  },
+  "manifest_version": 2
+}
