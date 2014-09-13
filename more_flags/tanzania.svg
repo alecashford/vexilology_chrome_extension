@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- /Creative Commons Public Domain -->
+<!--
+
+-->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg548"
+    viewBox="0 0 744.09 496.06"
+    version="1"
+    y="0"
+    x="0"
+  >
+  <g
+      id="g589"
+      transform="matrix(4.1339 0 0 4.1339 0 -.000015259)"
+    >
+    <rect
+        id="rect583"
+        style="fill-rule:evenodd;stroke-width:1pt;fill:#0099ff"
+        height="120"
+        width="180"
+        y="0"
+        x="0"
+    />
+    <path
+        id="path584"
+        style="fill-rule:evenodd;stroke-width:1pt;fill:#009900"
+        d="m0 7.1054e-15h180l-180 120v-120z"
+    />
+    <path
+        id="path586"
+        style="stroke-width:1pt;fill-rule:evenodd"
+        d="m0 120h40l140-95v-25l-40 7.1054e-15 -140 95v25z"
+    />
+    <path
+        id="path587"
+        style="fill-rule:evenodd;stroke-width:1pt;fill:#ffff00"
+        d="m0 91.456l137.18-91.456 13.52 7.1054e-15 -150.7 100.47v-9.014z"
+    />
+    <path
+        id="path588"
+        style="fill-rule:evenodd;stroke-width:1pt;fill:#ffff00"
+        transform="translate(30 24.53)"
+        d="m-0.7049 95.47l150.7-100.47v9.014l-137.18 91.456h-13.525z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >flag of Tanzania</dc:title
+        >
+        <dc:date
+          >2010-04-05T19:55:40</dc:date
+        >
+        <dc:description
+          >Originally posted by Russell Cloran from OCAL 0.18</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/38059/flag-of-tanzania-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >country</rdf:li
+            >
+            <rdf:li
+              >flag</rdf:li
+            >
+            <rdf:li
+              >tanzania</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
