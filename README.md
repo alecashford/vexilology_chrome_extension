@@ -64,3 +64,12 @@ All other images are either original works by me or originate from Wikimedia and
 
 "Flag of the Dominican Republic" by User:Nightstallion - Own work. Licensed under Public domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg#mediaviewer/File:Flag_of_the_Dominican_Republic.svg
 
+fix flag of spain
+"Flag of Spain". Via Wikipedia - http://en.wikipedia.org/wiki/File:Flag_of_Spain.svg#mediaviewer/File:Flag_of_Spain.svg
+
+"Flag of Poland". Via Wikipedia - http://en.wikipedia.org/wiki/File:Flag_of_Poland.svg#mediaviewer/File:Flag_of_Poland.svg
+
+"Flag of Kurdistan" by UnknowniThe source code of that SVG was invalid due to 12 errors.This vector image was created with Inkscape, and then manually replaced.iThe source code of this SVG is valid.This vector image was created with a text editor. Some skill had been used to simplify the drawing.Previous version had been created with Inkscape (4 200 bytes)  f  now 16% of previous size. - Own work. Licensed under Public domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Flag_of_Kurdistan.svg#mediaviewer/File:Flag_of_Kurdistan.svg
+
+"Flag of Crimea" by User:Madden - Own work. Licensed under Public domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Flag_of_Crimea.svg#mediaviewer/File:Flag_of_Crimea.svg
+

@@ -2,11 +2,19 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	var random_country = countries[Math.floor(Math.random() * countries.length)]
 	document.getElementById("flag").className += random_country.key
 	document.getElementById("label").innerHTML = random_country.display_name
+
 });
 
 // document.addEventListener("DOMContentLoaded", function(event) {
-// 	document.getElementById("flag").className += 'cv'
+// 	document.getElementById("flag").className += 'gb'
+// 	document.getElementById("label").innerHTML = 'United Kingdom'
 // });
+
+chrome.storage.sync.get(function(data) {
+	if (data.showLabels || data.showLabels == undefined) {
+		document.getElementById("label").style.display = "block"
+	}
+})
 
 var countries = [{display_name: 'Andorra', key: 'ad'}, {display_name: 'United Arab Emirates', key: 'ae'},
 				{display_name: 'Afghanistan', key: 'af'}, {display_name: 'Antigua and Barbuda', key: 'ag'},
@@ -23,13 +31,13 @@ var countries = [{display_name: 'Andorra', key: 'ad'}, {display_name: 'United Ar
 				{display_name: 'Burundi', key: 'bi'}, {display_name: 'Benin', key: 'bj'},
 				{display_name: 'Bermuda', key: 'bm'}, {display_name: 'Brunei', key: 'bn'},
 				{display_name: 'Bolivia', key: 'bo'}, {display_name: 'Brazil', key: 'br'},
-				{display_name: 'Bahamas', key: 'bs'}, {display_name: 'Bhutan', key: 'bt'},
+				{display_name: 'The Bahamas', key: 'bs'}, {display_name: 'Bhutan', key: 'bt'},
 				{display_name: 'Bouvet Island', key: 'bv'}, {display_name: 'Botswana', key: 'bw'},
 				{display_name: 'Belarus', key: 'by'}, {display_name: 'Belize', key: 'bz'},
 				{display_name: 'Canada', key: 'ca'}, {display_name: 'Catalonia', key: 'catalonia'},
 				{display_name: 'Cocos Islands', key: 'cc'}, {display_name: 'Democratic Republic of the Congo', key: 'cd'},
 				{display_name: 'Central African Republic', key: 'cf'}, {display_name: 'Congo', key: 'cg'},
-				{display_name: 'Switzerland', key: 'ch'}, {display_name: 'Cote D\'ivoire (Ivory Coast)', key: 'ci'},
+				{display_name: 'Switzerland', key: 'ch'}, {display_name: 'C&ocirc;te d\'Ivoire (Ivory Coast)', key: 'ci'},
 				{display_name: 'Cook Islands', key: 'ck'}, {display_name: 'Chile', key: 'cl'},
 				{display_name: 'Cameroon', key: 'cm'}, {display_name: 'People\'s Republic of China', key: 'cn'},
 				{display_name: 'Colombia', key: 'co'}, {display_name: 'Costa Rica', key: 'cr'},
@@ -114,7 +122,7 @@ var countries = [{display_name: 'Andorra', key: 'ad'}, {display_name: 'United Ar
 				{display_name: 'Slovakia', key: 'sk'}, {display_name: 'Sierra Leone', key: 'sl'},
 				{display_name: 'San Marino', key: 'sm'}, {display_name: 'Senegal', key: 'sn'},
 				{display_name: 'Somalia', key: 'so'}, {display_name: 'Suriname', key: 'sr'},
-				{display_name: 'S&atilde;o Tom&eacute;; and Pr&iacute;ncipe', key: 'st'}, {display_name: 'El Salvador', key: 'sv'},
+				{display_name: 'S&atilde;o Tom&eacute; and Pr&iacute;ncipe', key: 'st'}, {display_name: 'El Salvador', key: 'sv'},
 				{display_name: 'Syria', key: 'sy'}, {display_name: 'Swaziland', key: 'sz'},
 				{display_name: 'Turks and Caicos Islands', key: 'tc'}, {display_name: 'Chad', key: 'td'},
 				{display_name: 'French Southern and Antarctic Lands', key: 'tf'}, {display_name: 'Togo', key: 'tg'},
@@ -142,7 +150,8 @@ var countries = [{display_name: 'Andorra', key: 'ad'}, {display_name: 'United Ar
 				{display_name: 'Sahrawi Arab Democratic Republic', key: 'sadr'}, {display_name: 'South Ossetia', key: 's_ossetia'},
 				{display_name: 'Transnistria', key: 'transnistria'}, {display_name: 'Somaliland', key: 'somaliland'},
 				{display_name: 'Azad Kashmir', key: 'azad_kashmir'}, {display_name: 'Cyrenaica', key: 'cyrenaica'},
-				{display_name: 'Syrian Kurdistan', key: 'syrian_kurdistan'}, {display_name: 'Sint Maarten', key: 'maarten'}]
+				{display_name: 'Syrian Kurdistan', key: 'syrian_kurdistan'}, {display_name: 'Sint Maarten', key: 'maarten'},
+				{display_name: 'Iraqi Kurdistan', key: 'iraqi_kurdistan'}, {display_name: 'Crimea', key: 'crimea'}]
 
 
 

@@ -1,15 +1,19 @@
 {
-  "name": "Learn Flags!",
-  "description": "Learn the flags of the world without even realizing it!",
-  "version": "1.0",
+  "name": "New Tab? Flag!",
+  "description": "Learn the flags of the world without even trying!",
+  "version": "0.9",
   "chrome_url_overrides" : {
-    "newtab" : "vexilology.html"
+    "newtab" : "vexillology.html"
   },
   "permissions": [
+    "storage",
     "activeTab"
   ],
-    "browser_action": {
-    "default_title": "Learn Flags!"
-  },
+  "options_page": "options.html",
+  "icons" : {
+    "128" : "icon128.png",
+    "48" : "icon48.png",
+    "16" : "icon16.png"
+    },
   "manifest_version": 2
 }

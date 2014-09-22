@@ -481,8 +481,8 @@
 }
 /* spain */
 .es {
- background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAgNTAwIj4NCjxwYXRoIGZpbGw9IiNjNjBiMWUiIGQ9Im0wLDBoNzUwdjUwMGgtNzUweiIvPg0KPHBhdGggZmlsbD0iI2ZmYzQwMCIgZD0ibTAsMTI1aDc1MHYyNTBoLTc1MHoiLz4NCjwvc3ZnPg0K') no-repeat center center fixed;
- width: 150%;
+ background: url(more_flags/spain.svg) no-repeat center center fixed;
+ width: 100%;
  height: 100%;
  background-size: 100% 100%;
 }
@@ -694,9 +694,23 @@
  height: 100%;
  background-size: 100% 100%;
 }
+/* iraqi kurdistan */
+.iraqi_kurdistan {
+ background: url(more_flags/iraqi_kurdistan.svg) no-repeat center center fixed;
+ width: 100%;
+ height: 100%;
+ background-size: 100% 100%;
+}
 /* south ossetia */
 .s_ossetia {
  background: url(more_flags/south_ossetia.svg) no-repeat center center fixed;
+ width: 100%;
+ height: 100%;
+ background-size: 100% 100%;
+}
+/* south ossetia */
+.crimea {
+ background: url(more_flags/crimea.svg) no-repeat center center fixed;
  width: 100%;
  height: 100%;
  background-size: 100% 100%;
@@ -1381,7 +1395,7 @@
 }
 /* poland */
 .pl {
- background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjgwIDgwMCI+DQo8cGF0aCBmaWxsPSIjZTllOGU3IiBkPSJtMCwwaDEyODB2NDAwaC0xMjgweiIvPg0KPHBhdGggZmlsbD0iI2Q0MjEzZCIgZD0ibTAsNDAwaDEyODB2NDAwaC0xMjgweiIvPg0KPC9zdmc+DQo=') no-repeat center center fixed;
+ background: url(more_flags/poland.svg) no-repeat center center fixed;
  width: 160%;
  height: 100%;
  background-size: 100% 100%;

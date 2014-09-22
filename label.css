@@ -1,6 +1,7 @@
 html, body{
   height: 100%;
   background-color: #F2F2F2;
+	font: bold 24px/45px Helvetica, Sans-Serif; 
 }
 
 h2 span {
@@ -10,7 +11,6 @@ h2 span {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: black; 
-	font: bold 24px/45px Helvetica, Sans-Serif; 
 	letter-spacing: -1px;  
 	background: rgb(0, 0, 0);
 	background: white;
