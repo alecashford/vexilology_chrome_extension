@@ -1,5 +1,7 @@
 This Google Chrome extension is for whomever loves flags or simply wants to learn all of the world's flags without even realizing they're doing it! Every time you open a new tab, you will get to see a random nation's flag and name instead of the default new tab page.
 
+Extension can be downloaded here: https://chrome.google.com/webstore/detail/new-tab-flag/lagcgenebmlhjhclaoakigmljeipmamg
+
 Compiling a list such as this can be challenging as there is no universally agreed-upon definition of statehood. For this reason I've tried to make as few personal editorial decisions as possible and thus have used a loose criteria for inclusion; in general I followed the criteria established on Wikipedia's list of soverign states (http://en.wikipedia.org/wiki/List_of_sovereign_states). All soverign and semi-soverign self-governing entities are included, including overseas territories, dependencies, and de-facto and self-declared states, even ones whose sovereignty is disputed. All information is up-to-date as of September 12, 2014 and correct to the best of my knowledge. If you find an error, email me at ashford91@gmail.com
 
 Images are all SVG format; many are the great work of Jan Pavelka (http://www.phoca.cz/cssflags/). Their use is covered under the GNU General Public License.
