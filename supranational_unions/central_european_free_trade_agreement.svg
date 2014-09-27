@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="652" height="446" viewBox="0 0 326 223">
+
+<rect style="fill:#039;" width="326" height="223"/> 
+<circle style="fill:none;stroke:#fc0;stroke-width:14;" cx="163" cy="116.5" r="15.5"/> 
+<circle id="bigger_circle" style="fill:none;stroke:#fc0;stroke-width:14;" cx="163" cy="116.5" r="45"/> 
+<rect x="175.6329651" y="86.0001526" transform="matrix(0.7070988 0.7071148 -0.7071148 0.7070988 142.7554321 -111.6365814)" style="fill:#039;" width="60.9996986" height="60.9996986"/> 
+<rect x="89.5" y="109.5" style="fill:#fc0;" width="30.1669922" height="14"/> 
+<rect x="221.5" y="109.5" style="fill:#fc0;" width="45" height="14"/> 
+<rect x="185.7844849" y="72.7952576" transform="matrix(0.7070892 -0.7071243 0.7071243 0.7070892 2.0782928 164.6090698)" style="fill:#fc0;" width="27.8968811" height="14.0012665"/> 
+<rect x="156" y="14" style="fill:#fc0;" width="14" height="54.5576172"/> 
+<circle style="fill:#fc0;" cx="114.6669922" cy="70.5585938" r="7"/> 
+<circle style="fill:#fc0;" cx="73.5" cy="116.5009766" r="7"/> 
+<circle style="fill:#fc0;" cx="163" cy="183.5009766" r="7"/> 
+<circle style="fill:#fc0;" cx="163" cy="206.0009766" r="7"/>
+<circle style="fill:#fc0;" cx="208" cy="116.5" r="7"/> 
+<rect x="109.0005493" y="156.2246704" transform="matrix(0.7071068 -0.7071068 0.7071068 0.7071068 -81.4414673 129.8321228)" style="fill:#fc0;" width="13.9998856" height="13.9998856"/> 
+<rect x="213.3337097" y="166.8910217" transform="matrix(0.7071416 -0.7070719 0.7070719 0.7071416 -58.4265137 206.7172852)" style="fill:#fc0;" width="14.000576" height="13.9991951"/> 
+
+</svg>

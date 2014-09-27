@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="bc_flag"
+   version="1.1"
+   viewBox="0 0 282 170"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="british_columbia.svg">
+  <defs
+     id="defs4355">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4451">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1.20212448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect4453"
+         width="281.41241"
+         height="108.68774"
+         x="-140.79814"
+         y="-35.481682" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4457">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect4459"
+         width="281.47592"
+         height="101.52587"
+         x="-141"
+         y="-184.13382" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1049"
+     inkscape:window-height="698"
+     id="namedview4353"
+     showgrid="false"
+     inkscape:zoom="1.6449009"
+     inkscape:cx="112.69635"
+     inkscape:cy="39.427245"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="bc_flag" />
+  <desc
+     id="desc4288">Flag of British Columbia</desc>
+  <rect
+     width="282"
+     fill="#002b7f"
+     height="72"
+     id="rect4290" />
+  <g
+     transform="translate(141,36)"
+     id="g4292"
+     clip-path="url(#clipPath4451)">
+    <g
+       id="a"
+       transform="rotate(75.677)">
+      <path
+         d="m-12-150h24v300h-24z"
+         id="path4295"
+         fill="#fff" />
+      <path
+         d="m-9-150h9v300h9v-150h-18z"
+         id="path4297"
+         fill="#ce1126" />
+    </g>
+    <use
+       xlink:href="#a"
+       transform="rotate(208.65)"
+       id="use4299" />
+  </g>
+  <path
+     d="m0 24h129v-24h24v24h129v24h-129v24h-24v-24h-129z"
+     fill="#fff"
+     id="path4301" />
+  <path
+     d="m0 27h132v-27h18v27h132v18h-132v27h-18v-27h-132z"
+     id="path4303"
+     fill="#ce1126" />
+  <g
+     style="stroke:#000;stroke-width:.25px;fill:#ffd600"
+     transform="translate(141,43)"
+     id="g4305">
+    <path
+       d="m0-22l6.5 12.5 8.5-11.5 2 12.5 12-9.5-9 18a20 2 0 0 1 -40 0l-9-18 12 9.5 2-12.5 8.5 11.5 6.5-12.5z"
+       id="path4307" />
+    <path
+       d="m20 0a20 2 0 0 0 -40 0m40.5-1a20.5 2 0 0 0 -41 0m43-4a22.5 3 0 0 0 -45 0m45.5-1a23 3 0 0 0 -46 0"
+       fill="none"
+       id="path4309" />
+    <rect
+       y="-7"
+       x="-3"
+       rx=".5"
+       width="6"
+       height="3"
+       id="rect4311" />
+    <path
+       id="stl"
+       d="m8.51-5.245c-0.11 1.91 4.84 2.155 5.04 0.37 0.198-1.7652-4.9301-2.2778-5.04-0.37zm10.6 1c-0.385 1.0094 2.532 2.9212 3.31 1.255 0.78-1.67-2.94-2.225-3.31-1.255z" />
+    <use
+       xlink:href="#stl"
+       transform="scale(-1,1)"
+       id="use4314" />
+  </g>
+  <rect
+     y="72"
+     width="282"
+     fill="#fff"
+     height="98"
+     id="rect4316" />
+  <g
+     id="b"
+     fill="#002b7f"
+     transform="translate(141,81)">
+    <path
+       id="sb"
+       d="m0 0c10 0 18.1 5 28.2 5 10 0 18.1-5 28.2-5 10 0 18.1 5 28.2 5 10 0 18.1-5 28.2-5 10 0 18.1 5 28.2 5v14c-10 0-18.1-5-28.2-5-10 0-18.1 5-28.2 5-10 0-18.1-5-28.2-5-10 0-18.1 5-28.2 5-10 0-18.1-5-28.2-5z" />
+    <use
+       xlink:href="#sb"
+       transform="scale(-1,1)"
+       id="use4320" />
+  </g>
+  <use
+     xlink:href="#b"
+     transform="translate(0,28)"
+     id="use4322" />
+  <use
+     xlink:href="#b"
+     transform="translate(0,56)"
+     id="use4324" />
+  <g
+     style="stroke:#000;stroke-width:.25px;fill:#ffd600"
+     transform="translate(141,252)"
+     id="g4326"
+     clip-path="url(#clipPath4457)">
+    <path
+       id="s"
+       d="m0 0l-5.86-111.84 5.86-63.16 5.86 63.16z" />
+    <g
+       id="sw">
+      <use
+         xlink:href="#s"
+         transform="rotate(12)"
+         id="use4330" />
+      <use
+         xlink:href="#s"
+         transform="rotate(24)"
+         id="use4332" />
+      <use
+         xlink:href="#s"
+         transform="rotate(36)"
+         id="use4334" />
+      <use
+         xlink:href="#s"
+         transform="rotate(48)"
+         id="use4336" />
+      <path
+         id="w"
+         transform="rotate(6)"
+         d="m0 0l-5.86-111.84s2.86-4.16 2.86-8.16-2-6-2-11 5-9 5-13c0-6-5-8-5-14s5-8 5-17c0 22 9 22 9 31 0 7.5-7 10-7 18s3.86 14.16 3.86 14.16z" />
+      <use
+         xlink:href="#w"
+         transform="rotate(12)"
+         id="use4339" />
+      <use
+         xlink:href="#w"
+         transform="rotate(24)"
+         id="use4341" />
+      <use
+         xlink:href="#w"
+         transform="rotate(36)"
+         id="use4343" />
+      <use
+         xlink:href="#w"
+         transform="rotate(48)"
+         id="use4345" />
+    </g>
+    <use
+       xlink:href="#sw"
+       transform="scale(-1,1)"
+       id="use4347" />
+    <circle
+       r="112"
+       id="circle4349" />
+  </g>
+  <metadata
+     id="metadata4351">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Flag of British Columbia Canada</dc:title>
+        <dc:date>2006-12-26T00:00:00</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/24396/-by--24396</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

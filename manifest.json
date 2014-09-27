@@ -1,7 +1,7 @@
 {
   "name": "New Tab? Flag!",
   "description": "Learn the flags of the world without even trying!",
-  "version": "0.9",
+  "version": "1.4",
   "chrome_url_overrides" : {
     "newtab" : "vexillology.html"
   },

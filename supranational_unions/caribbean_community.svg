@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300pt"
+   height="210pt"
+   viewBox="0 0 300 210"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Flag_of_CARICOM.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 131.25 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="375 : 131.25 : 1"
+       inkscape:persp3d-origin="187.5 : 87.5 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="721"
+     inkscape:window-height="707"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.214338"
+     inkscape:cx="191.55314"
+     inkscape:cy="131.25271"
+     inkscape:window-x="415"
+     inkscape:window-y="170"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 0,0 300,0 0,106 C 276.17,105.94 25.83,105.94 0,106 z"
+     id="path4"
+     style="fill:#4fc5e6;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 0,106 c 25.83,-0.06 276.17,-0.06 300,0 l 0,104 -300,0 z"
+     id="path12"
+     style="fill:#001e7a;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="stroke:none"
+     id="path3796"
+     d=" M 110.98 41.88 C 128.94 30.03 151.89 27.54 172.61 32.21 C 190.62 36.44 206.30 48.15 216.75 63.24 C 225.18 75.71 229.07 90.93 228.51 105.91 C 228.30 122.17 222.15 138.21 211.61 150.57 C 201.81 162.10 188.66 171.00 174.02 174.99 C 154.43 179.40 132.63 178.39 115.07 167.87 C 93.09 155.43 77.61 131.44 77.49 105.91 C 77.21 95.62 78.70 85.21 82.67 75.66 C 88.18 61.73 98.71 50.24 110.98 41.88 Z"
+     fill="#218410" />
+  <path
+     style="fill:#f8d828;fill-opacity:1;stroke:none"
+     id="path3798"
+     d=" M 139.46 36.82 C 153.01 35.05 167.34 35.28 180.05 40.88 C 197.85 48.24 212.75 63.10 218.72 81.58 C 228.81 107.89 218.74 139.63 196.72 156.73 C 181.25 169.09 160.34 174.13 140.89 170.71 C 129.43 168.77 118.41 164.03 109.31 156.76 C 93.33 144.29 83.62 124.30 83.36 104.07 C 83.05 92.98 86.36 82.11 91.21 72.24 C 100.75 53.88 119.23 40.71 139.46 36.82 Z"
+     fill="#f9e523" />
+  <path
+     style="fill:#000000;stroke:none"
+     id="path3800"
+     d=" M 114.94 64.93 C 117.42 61.45 122.13 61.06 126.03 60.84 C 138.37 60.81 150.71 60.70 163.05 61.10 C 167.11 61.22 171.64 62.32 174.30 65.63 C 176.20 69.63 175.79 74.25 175.89 78.57 C 171.33 78.60 166.78 78.50 162.22 78.49 C 162.04 76.40 161.85 74.30 161.67 72.21 C 152.79 72.04 143.90 71.80 135.01 71.88 C 132.21 71.97 129.26 71.46 126.61 72.62 C 127.05 84.93 126.70 97.26 126.82 109.57 C 131.29 109.64 135.77 109.72 140.25 109.76 C 140.35 103.83 139.77 97.63 142.00 91.98 C 143.63 88.47 147.96 87.81 151.42 87.56 C 163.61 87.23 175.80 87.60 188.00 87.50 C 192.44 87.64 197.65 87.62 200.92 91.14 C 203.62 95.12 203.15 100.23 203.38 104.82 C 198.66 104.83 193.95 104.83 189.23 104.73 C 189.26 102.63 189.29 100.52 189.33 98.42 C 177.68 98.34 166.03 98.29 154.38 98.32 C 154.37 102.13 154.42 105.94 154.44 109.75 C 156.89 109.75 159.34 109.75 161.79 109.72 C 161.75 107.39 161.52 104.96 162.60 102.81 C 167.04 102.75 171.47 102.85 175.89 103.16 C 175.67 108.51 176.84 115.25 172.17 119.11 C 166.95 122.61 160.32 121.40 154.41 121.56 C 154.27 126.31 154.27 131.07 154.43 135.82 C 166.00 136.57 177.59 136.14 189.17 136.25 C 189.21 133.96 189.25 131.68 189.28 129.40 C 193.86 129.27 198.45 129.31 203.03 129.44 C 203.26 133.89 203.48 138.55 201.72 142.75 C 200.56 145.45 197.78 147.19 194.91 147.54 C 183.31 149.09 171.61 147.58 159.96 147.88 C 155.14 147.80 150.10 148.37 145.52 146.51 C 142.56 145.25 141.17 141.93 140.72 138.93 C 139.92 133.18 140.28 127.35 140.26 121.56 C 132.87 121.31 125.22 122.52 118.07 120.12 C 114.11 118.52 113.37 113.73 112.93 109.99 C 112.42 101.01 112.81 92.00 112.68 83.01 C 112.75 76.97 112.26 70.53 114.94 64.93 Z"
+     fill="#000000" />
+</svg>

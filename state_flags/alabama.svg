@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   id="svg3312"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="alabama.svg">
+  <metadata
+     id="metadata3322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3320">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3330">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1.0235616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect3332"
+         width="594.50751"
+         height="402.51511"
+         x="3.6632349"
+         y="-2.9194357" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3334">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1.0235616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect3336"
+         width="594.50751"
+         height="402.51511"
+         x="3.6632349"
+         y="-2.9194357" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1276"
+     inkscape:window-height="700"
+     id="namedview3318"
+     showgrid="false"
+     inkscape:zoom="0.54666667"
+     inkscape:cx="387.38511"
+     inkscape:cy="216.77175"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3312" />
+  <rect
+     width="600"
+     height="400"
+     fill="#fff"
+     id="rect3314"
+     clip-path="url(#clipPath3334)" />
+  <path
+     d="M0,0 600,400M0,400 600,0"
+     stroke="#b10021"
+     stroke-width="68"
+     id="path3316"
+     clip-path="url(#clipPath3330)" />
+</svg>
